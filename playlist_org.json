@@ -1,0 +1,817 @@
+{
+  "entity_type": "playlist_schema",
+  "id": "0f6ef633-5f0b-436c-98e6-10fd8048b3eb",
+  "name": "Opendata FUKUI",
+  "playlist_clips": [
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータで行こう 福井ツアー",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "d73ae851-ab15-46f8-b0d2-36d3227ce223",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/d73ae851-ab15-46f8-b0d2-36d3227ce223.mp3",
+        "image_url": "https://cdn2.suno.ai/image_d73ae851-ab15-46f8-b0d2-36d3227ce223.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_d73ae851-ab15-46f8-b0d2-36d3227ce223.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bright Japanese house track, 123 BPM, bouncing sidechained synth bass and glassy chords; male vocals riding a four-on-the-floor groove. Verses stay tight and rhythmic over minimal pads; chorus blooms with stacked hooks, airy plucks, and wide reverb. Short vocal chops answer the lead in post-chorus, kick and hats push the dancefloor feel while keeping space for the slogan line to hit.",
+          "prompt": "[Intro]\\n検索ワードじゃ　足りないから (hey!)\\n広がるマップに　夢のピン刺す\\n\\n[Verse 1]\\n朝いち　東尋坊\\n潮風　カメラごし\\nデータで見つけた\\n穴場の岩場　ふたりじめ\\n\\n恐竜バスの　時刻だって\\nワンタップで　すぐわかる\\n「こんなとこあったっけ？」\\n君が笑う\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n画面の向こうから　今ここへ\\n君の知らない　君の街が\\n一歩ごとに　アップデートされてく\\n福井の観光はオープンデータで進化する\\nシェアした写真が　誰かの地図\\nつながる指先　光るルート\\n明日の旅も　ここから始まる\\n\\n[Verse 2]\\n路地裏カフェの　席の空きも\\nリアルタイムで　覗き見してく\\n越前がにの　旬な店まで\\nタグたどれば　すぐ行ける\\n\\n鯖江のメガネ　かけてみれば\\n見え方まで　ちょっと変わる\\n開いた情報　開いた心\\n旅が深くなる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n紙のガイドには　ない景色\\n暮らす人たちの　声のライン\\n点と点が　物語になってく\\n福井の観光はオープンデータで進化する\\n歩いたログさえ　宝物\\n君の一日が　誰かのヒント\\n未来の旅路　みんなで描こう\\n\\n[Bridge]\\n閉じてたファイル　開くたび\\n見えなかった　道が見える\\n「行ってみようか？」\\n「行ってよかったね」\\n更新される　思い出 (oh yeah)\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n海も山も　駅前のビルも\\n同じ画面で　並んで笑う\\n選ぶたびに　世界が広がる\\n福井の観光はオープンデータで進化する\\n今のキミから　次のキミへ\\n旅の履歴が　未来地図\\n新しい福井　みんなで進化する",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,house",
+          "type": "gen",
+          "duration": 173.08,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:18:17.658Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "house, electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 0
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータで行こう 福井ツアー",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "a4b0bf64-098a-47f0-b4cd-24cacc9de848",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/a4b0bf64-098a-47f0-b4cd-24cacc9de848.mp3",
+        "image_url": "https://cdn2.suno.ai/image_a4b0bf64-098a-47f0-b4cd-24cacc9de848.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_a4b0bf64-098a-47f0-b4cd-24cacc9de848.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bright Japanese house track, 123 BPM, bouncing sidechained synth bass and glassy chords; male vocals riding a four-on-the-floor groove. Verses stay tight and rhythmic over minimal pads; chorus blooms with stacked hooks, airy plucks, and wide reverb. Short vocal chops answer the lead in post-chorus, kick and hats push the dancefloor feel while keeping space for the slogan line to hit.",
+          "prompt": "[Intro]\\n検索ワードじゃ　足りないから (hey!)\\n広がるマップに　夢のピン刺す\\n\\n[Verse 1]\\n朝いち　東尋坊\\n潮風　カメラごし\\nデータで見つけた\\n穴場の岩場　ふたりじめ\\n\\n恐竜バスの　時刻だって\\nワンタップで　すぐわかる\\n「こんなとこあったっけ？」\\n君が笑う\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n画面の向こうから　今ここへ\\n君の知らない　君の街が\\n一歩ごとに　アップデートされてく\\n福井の観光はオープンデータで進化する\\nシェアした写真が　誰かの地図\\nつながる指先　光るルート\\n明日の旅も　ここから始まる\\n\\n[Verse 2]\\n路地裏カフェの　席の空きも\\nリアルタイムで　覗き見してく\\n越前がにの　旬な店まで\\nタグたどれば　すぐ行ける\\n\\n鯖江のメガネ　かけてみれば\\n見え方まで　ちょっと変わる\\n開いた情報　開いた心\\n旅が深くなる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n紙のガイドには　ない景色\\n暮らす人たちの　声のライン\\n点と点が　物語になってく\\n福井の観光はオープンデータで進化する\\n歩いたログさえ　宝物\\n君の一日が　誰かのヒント\\n未来の旅路　みんなで描こう\\n\\n[Bridge]\\n閉じてたファイル　開くたび\\n見えなかった　道が見える\\n「行ってみようか？」\\n「行ってよかったね」\\n更新される　思い出 (oh yeah)\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n海も山も　駅前のビルも\\n同じ画面で　並んで笑う\\n選ぶたびに　世界が広がる\\n福井の観光はオープンデータで進化する\\n今のキミから　次のキミへ\\n旅の履歴が　未来地図\\n新しい福井　みんなで進化する",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,house",
+          "type": "gen",
+          "duration": 214.96,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:18:17.658Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "house, electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 1
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "福井オープンデータ・テクノツーリズム",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "dfc14707-dfe6-4742-b703-765887fa3b73",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/dfc14707-dfe6-4742-b703-765887fa3b73.mp3",
+        "image_url": "https://cdn2.suno.ai/image_dfc14707-dfe6-4742-b703-765887fa3b73.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_dfc14707-dfe6-4742-b703-765887fa3b73.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Driving techno track, 128 BPM, male vocals, metallic percussion and pulsing synth bass. Verses stay tight and rhythmic over a sparse groove; chorus widens with bright arps, vocoder harmonies, and a simple, shoutable hook. Occasional filter sweeps and risers keep the energy evolving for club or promo use., techno",
+          "prompt": "[Intro]\\n[シンセが刻むリズム]\\n灯りつくダッシュボード\\n地図より早い情報\\nアップデートされる未来\\n今　福井へアクセス\\n\\n[Verse 1]\\n検索ワード　指で跳ねる\\n「どこ行こう？」じゃ　もう遅い\\nリアルタイムの人の流れ\\n隠れた店まで　見えてくる\\n\\n海の色までデータになる\\n朝いちばんの波の高さ\\n画面越しでも伝わるけど\\n歩きたい　その潮風(しおかぜ)\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君のスマホが　ガイドブックを追い越してく\\n細い路地　まだ知らない名物さえ\\nひらかれた数字から　物語になる\\n\\n福井の観光はオープンデータで進化する\\n誰かの「楽しい」が　次の旅路をつなぐ\\n画面タップひとつで　出会いが増えていく\\n未来の地図を　いま描きかえる (hey!)\\n\\n[Verse 2]\\n空き時間は　五分だけど\\n近くの庭園　静かなベンチ\\n混雑度まで見えてるから\\n迷わず行ける　この瞬間\\n\\n山の駅からローカル線\\n時刻表も　混み具合も\\n知らなきゃ通り過ぎた景色\\n数字がそっと　背中押す\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\nバスのルートも　祭りの日程も光る\\n更新されるたび　街がしゃべりだす\\n「おいでよ」って　ポップアップになる\\n\\n福井の観光はオープンデータで進化する\\n旅人ひとりひとりの足あとが残る\\nそのレビューが次の誰かの\\n「行ってみたい」を起動する (oh yeah)\\n\\n[Bridge]\\n閉じてたファイル　今　ひらかれて\\n数字の粒が　風景を照らす\\nただのグラフが　心を揺らす\\n「ここが好きだ」と　伝えたくなる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n古い町並みも　新しいカフェも踊る\\n見えなかった魅力が　線で結ばれて\\n画面の中から　現地へジャンプする\\n\\n福井の観光はオープンデータで進化する\\n住む人さえも　まだ知らない道を開く\\nひらかれた情報と　ひらいた心で\\nアップデートされた旅へ　今出発する",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,techno",
+          "type": "gen",
+          "duration": 243.44,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:13:01.501Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 2
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "福井オープンデータ・テクノツーリズム",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "1ad4a21b-4b43-486c-99a5-c4996b3656c0",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/1ad4a21b-4b43-486c-99a5-c4996b3656c0.mp3",
+        "image_url": "https://cdn2.suno.ai/image_1ad4a21b-4b43-486c-99a5-c4996b3656c0.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_1ad4a21b-4b43-486c-99a5-c4996b3656c0.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Driving techno track, 128 BPM, male vocals, metallic percussion and pulsing synth bass. Verses stay tight and rhythmic over a sparse groove; chorus widens with bright arps, vocoder harmonies, and a simple, shoutable hook. Occasional filter sweeps and risers keep the energy evolving for club or promo use., techno",
+          "prompt": "[Intro]\\n[シンセが刻むリズム]\\n灯りつくダッシュボード\\n地図より早い情報\\nアップデートされる未来\\n今　福井へアクセス\\n\\n[Verse 1]\\n検索ワード　指で跳ねる\\n「どこ行こう？」じゃ　もう遅い\\nリアルタイムの人の流れ\\n隠れた店まで　見えてくる\\n\\n海の色までデータになる\\n朝いちばんの波の高さ\\n画面越しでも伝わるけど\\n歩きたい　その潮風(しおかぜ)\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君のスマホが　ガイドブックを追い越してく\\n細い路地　まだ知らない名物さえ\\nひらかれた数字から　物語になる\\n\\n福井の観光はオープンデータで進化する\\n誰かの「楽しい」が　次の旅路をつなぐ\\n画面タップひとつで　出会いが増えていく\\n未来の地図を　いま描きかえる (hey!)\\n\\n[Verse 2]\\n空き時間は　五分だけど\\n近くの庭園　静かなベンチ\\n混雑度まで見えてるから\\n迷わず行ける　この瞬間\\n\\n山の駅からローカル線\\n時刻表も　混み具合も\\n知らなきゃ通り過ぎた景色\\n数字がそっと　背中押す\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\nバスのルートも　祭りの日程も光る\\n更新されるたび　街がしゃべりだす\\n「おいでよ」って　ポップアップになる\\n\\n福井の観光はオープンデータで進化する\\n旅人ひとりひとりの足あとが残る\\nそのレビューが次の誰かの\\n「行ってみたい」を起動する (oh yeah)\\n\\n[Bridge]\\n閉じてたファイル　今　ひらかれて\\n数字の粒が　風景を照らす\\nただのグラフが　心を揺らす\\n「ここが好きだ」と　伝えたくなる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n古い町並みも　新しいカフェも踊る\\n見えなかった魅力が　線で結ばれて\\n画面の中から　現地へジャンプする\\n\\n福井の観光はオープンデータで進化する\\n住む人さえも　まだ知らない道を開く\\nひらかれた情報と　ひらいた心で\\nアップデートされた旅へ　今出発する",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,techno",
+          "type": "gen",
+          "duration": 239.84,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:13:01.501Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 3
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータで走り出せ！福井",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "616ae521-402d-4bff-91b7-6e7b3f89db49",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/616ae521-402d-4bff-91b7-6e7b3f89db49.mp3",
+        "image_url": "https://cdn2.suno.ai/image_616ae521-402d-4bff-91b7-6e7b3f89db49.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_616ae521-402d-4bff-91b7-6e7b3f89db49.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "High-energy eurobeat with male vocals; bright synth brass leads, octave bassline pumping at 155 BPM, four-on-the-floor kick slamming under quick-fire hats. Verses stay tight and rhythmic with percussive phrasing; chorus explodes with stacked chants and call-and-response hooks. Short synth solos between sections, big clap builds into shout-along final chorus.",
+          "prompt": "[Intro]\\n(hey!)\\nまぶしい朝だ\\n北陸の風\\nアクセル踏んで\\n地図より速く\\n\\n[Verse 1]\\nアイコン光る　スマホの中\\n「行ったことない」が近くなる\\n恐竜たちが　こっちを見てる\\n画面越しじゃ足りない鼓動\\n\\n海沿いルート　並ぶ鳥居\\nログの数字で　波がしゃべる\\n城下の路地　古いカフェで\\nタグひとつで　秘密が開く\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\nまだ誰も知らない景色まで連れてく\\nタップ一秒で　世界が広がる\\n(走れ走れ) 未来の旅路へ\\n福井の観光はオープンデータで進化する\\n更新されてく今を追いかけたい\\n紙の案内図　追いつけないくらい\\n(飛べよハート) 心が加速する\\n\\n[Verse 2]\\n駅前スクリーン　イベント告知\\nリアルタイムで　夜が騒ぐ\\n混み具合さえ　見える時代\\n待ち時間さえ　遊びに変える\\n\\nローカル線の　小さな駅に\\nひっそり光る　新着スポット\\nレビューよりも　目の前の人\\n「行ってみようか」それが答え\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n点と点　線になり街になる\\n知らなかった店　隠れた祭り\\n(今だ今だ) ハンドル切り替えろ\\n福井の観光はオープンデータで進化する\\n画面越しじゃ終わらせたくはない\\n数字の向こうで　誰かが笑うから\\n(もっと先へ) 一緒に見に行こう\\n\\n[Bridge]\\n[シンセソロ]\\nライトの帯が　山を越えて\\nデータの川が　海へ流れ\\n検索結果が　夢に変わる\\n選ぶたび　未来書き換わる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君と僕　ルート重なってゆく\\n共有ボタンで　出会いが増える\\n(ウーフォー！) 奇跡をアップデート\\n福井の観光はオープンデータで進化する\\n走りながら　景色登録してく\\n今日の発見が　明日のスタート\\n(もう一回) ここから始まる",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,eurobeat",
+          "type": "gen",
+          "duration": 217.08,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:12:50.526Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "eurobeat",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 4
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータで走り出せ！福井",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "d792bc03-c5df-4ee9-a67d-3d409eac14f2",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/d792bc03-c5df-4ee9-a67d-3d409eac14f2.mp3",
+        "image_url": "https://cdn2.suno.ai/image_d792bc03-c5df-4ee9-a67d-3d409eac14f2.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_d792bc03-c5df-4ee9-a67d-3d409eac14f2.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "High-energy eurobeat with male vocals; bright synth brass leads, octave bassline pumping at 155 BPM, four-on-the-floor kick slamming under quick-fire hats. Verses stay tight and rhythmic with percussive phrasing; chorus explodes with stacked chants and call-and-response hooks. Short synth solos between sections, big clap builds into shout-along final chorus.",
+          "prompt": "[Intro]\\n(hey!)\\nまぶしい朝だ\\n北陸の風\\nアクセル踏んで\\n地図より速く\\n\\n[Verse 1]\\nアイコン光る　スマホの中\\n「行ったことない」が近くなる\\n恐竜たちが　こっちを見てる\\n画面越しじゃ足りない鼓動\\n\\n海沿いルート　並ぶ鳥居\\nログの数字で　波がしゃべる\\n城下の路地　古いカフェで\\nタグひとつで　秘密が開く\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\nまだ誰も知らない景色まで連れてく\\nタップ一秒で　世界が広がる\\n(走れ走れ) 未来の旅路へ\\n福井の観光はオープンデータで進化する\\n更新されてく今を追いかけたい\\n紙の案内図　追いつけないくらい\\n(飛べよハート) 心が加速する\\n\\n[Verse 2]\\n駅前スクリーン　イベント告知\\nリアルタイムで　夜が騒ぐ\\n混み具合さえ　見える時代\\n待ち時間さえ　遊びに変える\\n\\nローカル線の　小さな駅に\\nひっそり光る　新着スポット\\nレビューよりも　目の前の人\\n「行ってみようか」それが答え\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n点と点　線になり街になる\\n知らなかった店　隠れた祭り\\n(今だ今だ) ハンドル切り替えろ\\n福井の観光はオープンデータで進化する\\n画面越しじゃ終わらせたくはない\\n数字の向こうで　誰かが笑うから\\n(もっと先へ) 一緒に見に行こう\\n\\n[Bridge]\\n[シンセソロ]\\nライトの帯が　山を越えて\\nデータの川が　海へ流れ\\n検索結果が　夢に変わる\\n選ぶたび　未来書き換わる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君と僕　ルート重なってゆく\\n共有ボタンで　出会いが増える\\n(ウーフォー！) 奇跡をアップデート\\n福井の観光はオープンデータで進化する\\n走りながら　景色登録してく\\n今日の発見が　明日のスタート\\n(もう一回) ここから始まる",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,eurobeat",
+          "type": "gen",
+          "duration": 204.92,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:12:50.526Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "eurobeat",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 5
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "福井オープンデータ・レボリューション",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "70cb02c4-e33e-4393-adf8-9fd704009c08",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/70cb02c4-e33e-4393-adf8-9fd704009c08.mp3",
+        "image_url": "https://cdn2.suno.ai/image_70cb02c4-e33e-4393-adf8-9fd704009c08.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_70cb02c4-e33e-4393-adf8-9fd704009c08.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "dance, Upbeat festival EDM with ethnic percussion, koto and shamisen riffs chopped over bright synth stabs. Male vocals riding a four-on-the-floor pulse; pre-chorus strips to claps and drones, chorus explodes with crowd chants and wide leads. Big sidechained pads, airy risers, and a euphoric last drop with stacked gang vocals., edm",
+          "prompt": "[Intro]\\n(ハイ！ハイ！)\\n地図が光る\\nスマホの中\\nまだ知らない\\n道が呼んでる\\n\\n[Verse 1]\\n朝の駅前　潮風まじり\\nローカル線が　今日のスタート\\nタグのついた　スポットを辿る\\n「行ってみようか」　指でなぞる\\n\\n恐竜みたいに　データが踊る\\n昔と今が　重なる画面\\n誰かの記録　誰かの笑顔\\n福井の未来　手のひらの中\\n\\n[Pre-Chorus]\\n更新ボタン　そっと押したら\\n隠れてた景色　急に近くなる\\nひとつの数字　ひとつのコメント\\n旅が続きになる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n(進化する　進化する)\\nまだ見ぬ場所へ　通知が導く\\n足跡がストーリーになる\\n君の一行が　誰かのコンパス\\nみんなで描く　福井マップ\\n\\n[Verse 2]\\n路地の向こう　小さな食堂\\nレビューひとつ　背中を押す\\n湯気の向こう　女将の笑顔\\n写真じゃ足りない　あったかさ\\n\\n越前の海　波のパターン\\n漁港の気温　潮のタイミング\\n数字の向こう　暮らしが見える\\n「ここに来てよ」と　浜がささやく\\n\\n[Pre-Chorus]\\n開いたデータ　風みたいに\\n町から町へ　つながっていく\\nクリックの先で　出会う名前\\n旅人も　もう仲間\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n(進化する　進化する)\\n画面の点が　出会いの入口\\n一歩で景色が変わる\\n君の投稿が　誰かのきっかけ\\n重なる笑顔のログ\\n\\n[Bridge]\\n[ビルドアップ　手拍子とコール]\\n「どこ行こう？」って　迷う時間も\\nシェアした瞬間　地図に変わる\\n開いた心　開いた街\\n福井が世界に　ひらけていく\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n(進化する　進化する)\\nまだ見ぬ明日を　みんなでアップデート\\n旅路がプラットフォームになる\\n君のひらめき　灯台みたい\\n照らしてくれる　次の旅人を\\n\\n[Outro]\\n(ハイ！ハイ！)\\n福井の観光は\\nオープンデータで進化する\\n君とつなぐ　その一行で",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,edm,ethnic",
+          "type": "gen",
+          "duration": 244.04,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:12:33.589Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "EDM",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 6
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "福井オープンデータ・レボリューション",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "b924875b-7ea9-42b1-bf60-c1271929b4e0",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/b924875b-7ea9-42b1-bf60-c1271929b4e0.mp3",
+        "image_url": "https://cdn2.suno.ai/image_b924875b-7ea9-42b1-bf60-c1271929b4e0.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_b924875b-7ea9-42b1-bf60-c1271929b4e0.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "dance, Upbeat festival EDM with ethnic percussion, koto and shamisen riffs chopped over bright synth stabs. Male vocals riding a four-on-the-floor pulse; pre-chorus strips to claps and drones, chorus explodes with crowd chants and wide leads. Big sidechained pads, airy risers, and a euphoric last drop with stacked gang vocals., edm",
+          "prompt": "[Intro]\\n(ハイ！ハイ！)\\n地図が光る\\nスマホの中\\nまだ知らない\\n道が呼んでる\\n\\n[Verse 1]\\n朝の駅前　潮風まじり\\nローカル線が　今日のスタート\\nタグのついた　スポットを辿る\\n「行ってみようか」　指でなぞる\\n\\n恐竜みたいに　データが踊る\\n昔と今が　重なる画面\\n誰かの記録　誰かの笑顔\\n福井の未来　手のひらの中\\n\\n[Pre-Chorus]\\n更新ボタン　そっと押したら\\n隠れてた景色　急に近くなる\\nひとつの数字　ひとつのコメント\\n旅が続きになる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n(進化する　進化する)\\nまだ見ぬ場所へ　通知が導く\\n足跡がストーリーになる\\n君の一行が　誰かのコンパス\\nみんなで描く　福井マップ\\n\\n[Verse 2]\\n路地の向こう　小さな食堂\\nレビューひとつ　背中を押す\\n湯気の向こう　女将の笑顔\\n写真じゃ足りない　あったかさ\\n\\n越前の海　波のパターン\\n漁港の気温　潮のタイミング\\n数字の向こう　暮らしが見える\\n「ここに来てよ」と　浜がささやく\\n\\n[Pre-Chorus]\\n開いたデータ　風みたいに\\n町から町へ　つながっていく\\nクリックの先で　出会う名前\\n旅人も　もう仲間\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n(進化する　進化する)\\n画面の点が　出会いの入口\\n一歩で景色が変わる\\n君の投稿が　誰かのきっかけ\\n重なる笑顔のログ\\n\\n[Bridge]\\n[ビルドアップ　手拍子とコール]\\n「どこ行こう？」って　迷う時間も\\nシェアした瞬間　地図に変わる\\n開いた心　開いた街\\n福井が世界に　ひらけていく\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n(進化する　進化する)\\nまだ見ぬ明日を　みんなでアップデート\\n旅路がプラットフォームになる\\n君のひらめき　灯台みたい\\n照らしてくれる　次の旅人を\\n\\n[Outro]\\n(ハイ！ハイ！)\\n福井の観光は\\nオープンデータで進化する\\n君とつなぐ　その一行で",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,edm,ethnic",
+          "type": "gen",
+          "duration": 249.84,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:12:33.589Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "EDM",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 7
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータで進化するFUKUI",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "4065607e-99da-4317-aab7-1a97327a4fd1",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/4065607e-99da-4317-aab7-1a97327a4fd1.mp3",
+        "image_url": "https://cdn2.suno.ai/image_4065607e-99da-4317-aab7-1a97327a4fd1.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_4065607e-99da-4317-aab7-1a97327a4fd1.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "dance, High-energy Japanese EDM anthem, bright synth leads and sidechained pads over a four-on-the-floor kick. Verses ride a bouncy pluck bass with filtered vocals; chorus explodes with wide supersaw chords, stacked group chants, and a soaring female topline. Brief spoken-style breakdown before final hook, then a riser back into a hands-in-the-air last chorus., edm",
+          "prompt": "[Verse 1]\\n線路沿いのカフェから\\n海風に揺れる駅前\\nスマホひとつかざしたら\\nまだ知らない景色が開く\\n\\n[Pre-Chorus]\\n地図のピンが光りだす\\n胸の中もアップデート\\n「行ってみようか？」(hey!)\\n今すぐ出発\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君の指先で街が目を覚ます\\n昨日の「いつか」を今日に変えてく\\n一緒に描こうよ　動きだす未来を\\n\\n[Verse 2]\\n城跡　朝市　路地裏\\n小さな文字の案内板\\n誰かの想いがタグになる\\n世界中からつながる検索\\n\\n[Pre-Chorus]\\n見逃してた景色たちが\\nリストからあふれ出す\\n「次はどこいく？」(oh yeah)\\n選ぶたび高鳴る\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君のひらめきでルートが生まれる\\n地図にはなかった寄り道さえも\\nストーリーになって　誰かを連れてく\\n\\n[Bridge]\\n開かれたページ　重なる足跡\\nレビューの向こう　聞こえる笑い声\\nひとつひとつの「楽しい」が\\n未来の旅のコンパスになる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君の指先で街が目を覚ます\\n昨日の「いつか」を今日に変えてく\\n一緒に描こうよ　動きだす未来を\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n画面越しじゃ追いつけないリアル\\n今ここで君と共有してく\\nアップデートしよう　終わらない旅路を",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,edm",
+          "type": "gen",
+          "duration": 194.68,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:12:18.933Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "dance, edm",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 8
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータで進化するFUKUI",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "a26a9890-7a3e-48c6-b1cd-e12a8b288cc3",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/a26a9890-7a3e-48c6-b1cd-e12a8b288cc3.mp3",
+        "image_url": "https://cdn2.suno.ai/image_a26a9890-7a3e-48c6-b1cd-e12a8b288cc3.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_a26a9890-7a3e-48c6-b1cd-e12a8b288cc3.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "dance, High-energy Japanese EDM anthem, bright synth leads and sidechained pads over a four-on-the-floor kick. Verses ride a bouncy pluck bass with filtered vocals; chorus explodes with wide supersaw chords, stacked group chants, and a soaring female topline. Brief spoken-style breakdown before final hook, then a riser back into a hands-in-the-air last chorus., edm",
+          "prompt": "[Verse 1]\\n線路沿いのカフェから\\n海風に揺れる駅前\\nスマホひとつかざしたら\\nまだ知らない景色が開く\\n\\n[Pre-Chorus]\\n地図のピンが光りだす\\n胸の中もアップデート\\n「行ってみようか？」(hey!)\\n今すぐ出発\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君の指先で街が目を覚ます\\n昨日の「いつか」を今日に変えてく\\n一緒に描こうよ　動きだす未来を\\n\\n[Verse 2]\\n城跡　朝市　路地裏\\n小さな文字の案内板\\n誰かの想いがタグになる\\n世界中からつながる検索\\n\\n[Pre-Chorus]\\n見逃してた景色たちが\\nリストからあふれ出す\\n「次はどこいく？」(oh yeah)\\n選ぶたび高鳴る\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君のひらめきでルートが生まれる\\n地図にはなかった寄り道さえも\\nストーリーになって　誰かを連れてく\\n\\n[Bridge]\\n開かれたページ　重なる足跡\\nレビューの向こう　聞こえる笑い声\\nひとつひとつの「楽しい」が\\n未来の旅のコンパスになる\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n君の指先で街が目を覚ます\\n昨日の「いつか」を今日に変えてく\\n一緒に描こうよ　動きだす未来を\\n\\n[Chorus]\\n福井の観光はオープンデータで進化する\\n画面越しじゃ追いつけないリアル\\n今ここで君と共有してく\\nアップデートしよう　終わらない旅路を",
+          "gpt_description_prompt": "福井の観光はオープンデータで進化する,edm",
+          "type": "gen",
+          "duration": 212.2,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-24T01:12:18.933Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "dance, edm",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 9
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_d73ae851-ab15-46f8-b0d2-36d3227ce223.jpeg",
+  "num_total_results": 10,
+  "current_page": 1,
+  "is_owned": false,
+  "is_trashed": false,
+  "is_public": true,
+  "is_hidden": false,
+  "user_display_name": "Taisuke Fukuno",
+  "user_handle": "taisukefukuno858",
+  "user_avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+  "description": "",
+  "upvote_count": 0,
+  "dislike_count": 0,
+  "flag_count": 0,
+  "skip_count": 0,
+  "play_count": 0,
+  "song_count": 0,
+  "is_discover_playlist": false,
+  "clipIds": [
+    "d73ae851-ab15-46f8-b0d2-36d3227ce223",
+    "a4b0bf64-098a-47f0-b4cd-24cacc9de848",
+    "dfc14707-dfe6-4742-b703-765887fa3b73",
+    "1ad4a21b-4b43-486c-99a5-c4996b3656c0",
+    "616ae521-402d-4bff-91b7-6e7b3f89db49",
+    "d792bc03-c5df-4ee9-a67d-3d409eac14f2",
+    "70cb02c4-e33e-4393-adf8-9fd704009c08",
+    "b924875b-7ea9-42b1-bf60-c1271929b4e0",
+    "4065607e-99da-4317-aab7-1a97327a4fd1",
+    "a26a9890-7a3e-48c6-b1cd-e12a8b288cc3"
+  ]
+}
