@@ -1,5 +1,10 @@
 import { sleep } from "https://js.sabae.cc/sleep.js";
 
+const playlistid = Deno.args[0];
+if (playlistid) {
+  await scrapePlaylist(playlistid);
+}
+
 export async function fileExists(path) {
   try {
     const stat = await Deno.stat(path);
