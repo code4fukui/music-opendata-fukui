@@ -1,6 +1,7 @@
 import { fetchOrLoad, HTMLParser, CSV, nextTag, prevTag, table2json, table2csv, sleep } from "https://code4fukui.github.io/scrapeutil/scrapeutil.js";
 
-const url = "https://suno.com/playlist/0f6ef633-5f0b-436c-98e6-10fd8048b3eb";
+const playlistid = Deno.args[0] ?? "0f6ef633-5f0b-436c-98e6-10fd8048b3eb";
+const url = "https://suno.com/playlist/" + playlistid;
 
 const html = await fetchOrLoad(url);
 const idx = `self.__next_f.push([1,"5:[\\"$\\",\\"$L1b\\",null,{\\"playlist\\"`;
