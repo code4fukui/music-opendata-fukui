@@ -104,7 +104,7 @@ const show = async (clip) => {
   audio_main.onended = () => {
     for (let i = 0; i < data.length; i++) {
       if (data[i].clip.image_large_url == imgurl) {
-        show(i + 1 == data.length ? data[0].fn : data[i + 1].fn);
+        show(i + 1 == data.length ? data[0].clip : data[i + 1].clip);
         break;
       }
     }
