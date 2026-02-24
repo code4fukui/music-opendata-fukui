@@ -4,9 +4,17 @@ export const makePlaylist = async (playlistid) => {
   const url = "https://suno.com/playlist/" + playlistid;
 
   const html = await fetchOrLoad(url);
-  const idx = `self.__next_f.push([1,"5:[\\"$\\",\\"$L1b\\",null,{\\"playlist\\"`;
-  const n = html.indexOf(idx);
+  let idx = `self.__next_f.push([1,"5:[\\"$\\",\\"$L1b\\",null,{\\"playlist\\"`;
+  let idxoff = 2;
+  let n = html.indexOf(idx);
   console.log(n);
+  if (n < 0) {
+    idx = `self.__next_f.push([1,"12:[\\"$\\",\\"$L23\\",null,{\\"playlist\\":`
+    n = html.indexOf(idx);
+    idxoff = 3;
+  console.log(n);
+    if (n < 0) throw new Error("not found playlist on HTML");
+  }
   // "]}}]\n"])</script><script>self.__next_f.push([1,"12:{\"met
   const indexOfEnd = (s, i) => {
     let state = 0;
@@ -30,7 +38,7 @@ export const makePlaylist = async (playlistid) => {
 
   const m = indexOfEnd(html, n + idx.length);
   console.log(m);
-  const s = unescape(html.substring(n + "self.__next_f.push([1,\"".length + 2, m - 2));
+  const s = unescape(html.substring(n + "self.__next_f.push([1,\"".length + idxoff, m - 2));
   //console.log(s);
   //await Deno.writeTextFile("playlist.json", s);
   const json = JSON.parse(s);
