@@ -1,7 +1,8 @@
 import { fetchOrLoad, HTMLParser, CSV, nextTag, prevTag, table2json, table2csv, sleep } from "https://code4fukui.github.io/scrapeutil/scrapeutil.js";
 
 export const makePlaylist = async (playlistid) => {
-  const url = "https://suno.com/playlist/" + playlistid;
+  const base = "https://suno.com/playlist/";
+  const url = playlistid.startsWith(base) ? playlistid : base + playlistid;
 
   const html = await fetchOrLoad(url);
   const re = /self\.__next_f\.push\(\[1,"([0-9a-fA-F]+):\[\\"\$\\",\\"\$L[0-9a-fA-F]+\\",null,\{\\"playlist\\"/;
