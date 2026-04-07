@@ -42,3 +42,4 @@ for (const item of json.playlist_clips) {
   }
 }
 await Deno.writeTextFile("playlist.json", JSON.stringify(json, null, 2));
+await Deno.remove("temp", { recursive: true });
